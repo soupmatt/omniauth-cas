@@ -1,3 +1,4 @@
+require 'omniauth/core'
 require 'omniauth-cas/strategy/configuration'
 require 'omniauth-cas/strategy/service_ticket_validator'
 
